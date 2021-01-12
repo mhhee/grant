@@ -1,0 +1,110 @@
+body{
+    background: linear-gradient(rgba(0,0,0.5,0.7), rgba(0,0,0.5,0.7)), url(pop.jpeg);
+    background-position:center center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0;
+    margin: 0;
+}
+.container{  
+    
+    
+}
+.main{
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  width: 40%;
+}
+
+.first{
+    margin-top: 10%;
+    text-align: center;
+    justify-content: center;
+    color: lightblue;
+    font-size: 2.0em;
+    font-weight: bold;  
+}
+.para{
+    margin-top: 5%;
+    text-align: center;
+    color: white;
+    font-size: 1.4em;
+}
+.buttons{
+    margin-top: 5%;
+    text-align: center;
+    color: orange;
+}
+#lol{
+    width: 200px;
+    border: none;
+    border-radius: 20px;
+    height: 35px;
+    background-color: yellow;
+    box-shadow: 4px 4px 8px black;
+    color: pink;
+    font-weight: bold;
+    
+}
+#lol:hover{
+    width: 220px;
+    height: 37px;
+    background-color: orange;  
+    box-shadow: 4px 4px 8px black;
+}
+.login{
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: cover cover;
+    width:100%;
+    height: 600px;
+    background-color: rgba(0,0,0.5,0.5);
+    position: absolute;
+    top: 0px;
+}
+.application{
+    width: 100%;
+    height: 400px;
+    background-color: rgba(0,0,0.5,0.7);
+}
+#login{
+    width: 40%;
+    margin: 5% 30% 0% 30%;
+    height: 80%;
+    border-radius: 20px;
+    background-color: gray;
+    box-shadow: 6px 4px 6px black;
+}
+#wow{
+    width: 100%;
+    height: 40px;
+    border-radius: 20px ;
+    margin-bottom: 10px;
+    border: none;
+    box-shadow: 4px 4px 10px gray inset; 
+}
+.logitems{
+    width: 50%;
+    position: ;
+    margin: 20% 30% 0% 25%;
+
+}
+input[type="email"]{
+    padding-left: 12px;
+}
+input::placeholder{
+    font-size: 15px;
+}
+input[type="password"]{
+    padding-left: 12px;
+}
+#that{
+    margin-left: 92%;
+    font-size: 2.4em;
+    font-family: cursive
+}
+
+
